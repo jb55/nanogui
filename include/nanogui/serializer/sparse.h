@@ -12,7 +12,7 @@
 #pragma once
 
 #include <nanogui/serializer/core.h>
-#include <Eigen/SparseCore>
+#include <eigen3/Eigen/SparseCore>
 
 NAMESPACE_BEGIN(nanogui)
 NAMESPACE_BEGIN(detail)

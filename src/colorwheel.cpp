@@ -15,8 +15,8 @@
 #include <nanogui/theme.h>
 #include <nanogui/opengl.h>
 #include <nanogui/serializer/core.h>
-#include <Eigen/QR>
-#include <Eigen/Geometry>
+#include <eigen3/Eigen/QR>
+#include <eigen3/Eigen/Geometry>
 
 NAMESPACE_BEGIN(nanogui)
 

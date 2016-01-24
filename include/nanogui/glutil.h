@@ -12,7 +12,7 @@
 #pragma once
 
 #include <nanogui/opengl.h>
-#include <Eigen/Geometry>
+#include <eigen3/Eigen/Geometry>
 #include <map>
 
 namespace half_float { class half; }
